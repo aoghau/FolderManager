@@ -1,0 +1,14 @@
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\bin\Debug\net6.0\FoldersApp.Data.deps.json
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\bin\Debug\net6.0\FoldersApp.Data.runtimeconfig.json
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\bin\Debug\net6.0\FoldersApp.Data.dll
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\bin\Debug\net6.0\FoldersApp.Data.pdb
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\obj\Debug\net6.0\FoldersApp.Data.csproj.AssemblyReference.cache
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\obj\Debug\net6.0\FoldersApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\obj\Debug\net6.0\FoldersApp.Data.AssemblyInfoInputs.cache
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\obj\Debug\net6.0\FoldersApp.Data.AssemblyInfo.cs
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\obj\Debug\net6.0\FoldersApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\obj\Debug\net6.0\FoldersApp.Data.dll
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\obj\Debug\net6.0\refint\FoldersApp.Data.dll
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\obj\Debug\net6.0\FoldersApp.Data.pdb
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\obj\Debug\net6.0\FoldersApp.Data.genruntimeconfig.cache
+C:\Users\Angelina\Desktop\netprojects\FoldersApp\FoldersApp.Data\obj\Debug\net6.0\ref\FoldersApp.Data.dll
